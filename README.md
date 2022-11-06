@@ -6,7 +6,7 @@ Want police dogs on your server without finding local dogs wearing vests? Here i
 # Author
 Converted by: 12LetterMeme#0001
 
-This was converted to Add-On using these files: https://www.lcpdfr.com/downloads/gta5mods/character/19996-german-shepherd-malinois-k9-dog/
+Original files: https://www.lcpdfr.com/downloads/gta5mods/character/19996-german-shepherd-malinois-k9-dog/
 
 # Read Me
 Literally just drag and drop into your ped folder
